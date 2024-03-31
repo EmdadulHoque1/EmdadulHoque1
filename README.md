@@ -29,7 +29,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS/TAILWIND CSS/BOOTSTARP
 
  
 
-<h3 align="left">Connect with me:</h3>
+ 
 <p align="left">
 </p>
 
