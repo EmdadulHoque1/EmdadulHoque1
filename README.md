@@ -1,16 +1,21 @@
-### Hi there 👋
+ <h1 align="center">Hi 👋, I'm Emdadul Hoque</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-https://scontent.fdac2-2.fna.fbcdn.net/v/t39.30808-6/434560732_435248328983268_7722741539986212601_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFxOKjZXPZh0P2TWdH8rpFxuVjy2s3nxuq5WPLazefG6iR_H7ovaXiQPvvyD56p8cogfE2G8G0pZm-YUaI7omXU&_nc_ohc=6In-ICLEMA4AX84d9mW&_nc_zt=23&_nc_ht=scontent.fdac2-2.fna&oh=00_AfB2d4DCmDaI94_gDYHVEPpZkeuK9-okRgr3LYuL7tq3hg&oe=660F4C4D
-**EmdadulHoque1/EmdadulHoque1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emdadulhoque1&label=Profile%20views&color=0e75b6&style=flat" alt="emdadulhoque1" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emdadulhoque1" alt="emdadulhoque1" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me **lovelyimrad@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emdadulhoque1&show_icons=true&locale=en&layout=compact" alt="emdadulhoque1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emdadulhoque1&show_icons=true&locale=en" alt="emdadulhoque1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emdadulhoque1&" alt="emdadulhoque1" /></p>
