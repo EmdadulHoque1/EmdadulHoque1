@@ -27,7 +27,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS/TAILWIND CSS/BOOTSTARP
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emdadulhoque1" alt="emdadulhoque1" /></a> </p>
 
-- 📫 How to reach me **lovelyimrad@gmail.com**
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
