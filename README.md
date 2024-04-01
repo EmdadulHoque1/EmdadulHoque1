@@ -10,7 +10,7 @@ Whether it's collaborating with designers to implement pixel-perfect designs or 
 
 Feel free to explore my portfolio and reach out if you'd like to discuss how we can work together to bring your ideas to life on the web. 
 
-Skills: VUE JS / REACT / JS / HTML / CSS/TAILWIND CSS/BOOTSTARP
+Skills:  HTML / CSS/ JS/ VUE JS / REACT /TAILWIND CSS/BOOTSTARP
 
 - 🔭 I’m currently working on youtube 
 - 🌱 I’m currently learning JavaScript 
