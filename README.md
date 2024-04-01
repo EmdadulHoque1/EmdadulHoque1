@@ -9,7 +9,7 @@ In my portfolio, you'll find a collection of projects that highlight my skills a
 Whether it's collaborating with designers to implement pixel-perfect designs or optimizing website performance for a seamless user experience, I thrive on turning concepts into reality.
 
 Feel free to explore my portfolio and reach out if you'd like to discuss how we can work together to bring your ideas to life on the web. 
-
+z
 Skills:  HTML / CSS/ JS/ VUE JS / REACT /TAILWIND CSS/BOOTSTARP
 
 - 🔭 I’m currently working on youtube 
