@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Emdadul Hoque
+ ## Hi there 👋, my name is Emdadul Hoque
 ###  A passionate frontend developer from Bangladesh
 ![ A passionate frontend developer from Bangladesh]( https://scontent.fdac2-2.fna.fbcdn.net/v/t39.30808-6/434560732_435248328983268_7722741539986212601_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFxOKjZXPZh0P2TWdH8rpFxuVjy2s3nxuq5WPLazefG6iR_H7ovaXiQPvvyD56p8cogfE2G8G0pZm-YUaI7omXU&_nc_ohc=6In-ICLEMA4AX84d9mW&_nc_zt=23&_nc_ht=scontent.fdac2-2.fna&oh=00_AfB2d4DCmDaI94_gDYHVEPpZkeuK9-okRgr3LYuL7tq3hg&oe=660F4C4D)
 
@@ -31,9 +31,9 @@ Skills:  HTML / CSS/ JS/ VUE JS / REACT /TAILWIND CSS/BOOTSTARP
 
 ## 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmdadulHoque1)<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emdadulhoque1&show_icons=true&locale=en" alt="emdadulhoque1" /></p>
+![](https://github-readme-stats.vercel.app/api?username=EmdadulHoque1&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=EmdadulHoque1&theme=dracula&hide_border=false) 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emdadulhoque1&" alt="emdadulhoque1" /></p>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=EmdadulHoque1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
