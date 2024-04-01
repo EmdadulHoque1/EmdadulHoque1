@@ -40,8 +40,4 @@ Skills: VUE JS / REACT / JS / HTML / CSS/TAILWIND CSS/BOOTSTARP
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=EmdadulHoque1)  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmdadulHoque1)](https://github.com/anuraghazra/github-readme-stats)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emdadulhoque1&show_icons=true&locale=en" alt="emdadulhoque1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emdadulhoque1&" alt="emdadulhoque1" /></p>
+ 
