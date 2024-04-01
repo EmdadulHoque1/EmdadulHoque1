@@ -28,16 +28,13 @@ Skills: VUE JS / REACT / JS / HTML / CSS/TAILWIND CSS/BOOTSTARP
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=EmdadulHoque1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-
- 
-
- 
 ## 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmdadulHoque1)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=EmdadulHoque1&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EmdadulHoque1&theme=dracula&hide_border=false) 
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=EmdadulHoque1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
